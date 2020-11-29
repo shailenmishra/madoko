@@ -1,0 +1,26 @@
+Title         : Reading Resources
+Author        : Shailen Mishra
+Logo          : True
+
+[TITLE]
+[TOC]
+
+# Creative Writing 
+* [Gals Against Smog and Pollution: Montana Women Take on Polluters](https://sscmsu.maps.arcgis.com/apps/Cascade/index.html?appid=8b49ee41f900482d9ccee1f3b6dcf29a): A digital narrative, digital humanities project that can be modeled in composition or creative writing courses. A project of collaboration between a class and a museum.
+* [On Poets and Prizes / Juliana Spahr and Stephanie Young](http://asapjournal.com/on-poets-and-prizes-juliana-spahr-and-stephanie-young/): An “economy of favors.” Poetry prizes suffer from reciprocity: judges give awards to those who have given them awards.
+
+
+# Composition Studies
+
+# Pedagogy
+
+Madoko is a fast markdown processor for writing professional articles
+with a focus on simplicity and plain text readability.
+
+* Read the [reference manual].
+* Explore the upper-right toolbox menu to discover how Markdown works. 
+* `Alt-Q` reformats the current paragraph.
+
+Enjoy!
+
+[reference manual]: http://research.microsoft.com/en-us/um/people/daan/madoko/doc/reference.html  "Madoko reference manual"
